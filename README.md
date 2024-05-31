@@ -18,11 +18,8 @@ The dataset used in this project is : https://www.kaggle.com/datasets/imakash301
 People
 
 ID: Customer's unique identifier
-
 Year_Birth: Customer's birth year
-
 Education: Customer's education level
-
 Marital_Status: Customer's marital status
 
 Income: Customer's yearly household income
