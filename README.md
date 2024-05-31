@@ -1,5 +1,31 @@
 # Getting into clustering or cluster-analysis
 
+## What is clustering or cluster analysis
+
+
+Clustering or cluster analysis is an aspect of statistical data analysis where you segment the datasets into groups based on similarities. Here, the data points that are close to one another are grouped together to form clusters. Clustering is one of the core data mining techniques and comes under umbrella of unsupervised Machine Learning. Clustering, being an unsupervised learning technique, does not require much human intervention and any pre-existing labels. This technique is generally used for exploratory data analysis.
+
+
+Lets understand the use of cluster analysis with an example. Lets assume the mayor of Kathmandu wants to plan efficient allocation of budget for road safety but isn't exactly sure about which areas to focus on. Here, using cluster analysis they find out that the incidents of road accidents are clustered in few specific areas within the city. Therefore, he plans the infrastructure development and allocation of traffic personnel focused on those areas which in turn significantly reduces the number of accidents. Clustering can be a great way to find patterns and relationships within a large data set. There are various uses of clustering in various industries. Some common application of clustering are : 
+
+- Customer segmenting for targeted marketing
+- Recommendation system to suggest songs, movies, contents to users with similar preferences
+- Detecting anomalities for fraud detection, predictive maintenance and network security
+- Image segmentation for tumor detection through medical imaging, land cover classification and computer vision for self driving cars
+- Spatial data analysis for city planning, disease survellience, crime analysis, etc.
+
+
+While there are numerous clustering techniques, the K-means clustering is used most widely. There is no best clustering technique and the most favorable technique is determined by the properties of data and the purpose of analysis. As of now there are more than 100 different types of algorithms used in clustering. However, the clustering techniques most commonly used can be divided in following categories: 
+
+- Partitional clustering : K-means, K-medoids, Fuzzy C-means
+- Hieriarchial clustering : Agglomerative (Bottom-up approach), Divisive (Top-down approach)
+- Density-Based clustering : DBSCAN, OPTICS, DENCLUE
+- Grid-Based clustering : STING, WaveCluster
+- Model-Based clustering : EM, COBWEB, SOM
+
+# Customer segmentation using Clustering in Python
+
+
 In this project, we will be conducting Agglomerative and K-means clustering on customer demographic data to segment customers for targeted marketing. Major steps we will take in the project are :
 
 1. Feature engineering and data cleaning
