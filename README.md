@@ -1,3 +1,5 @@
+# About the Project
+
 In this project, we will be conducting Agglomerative and K-means clustering on customer demographic data to segment customers for targeted marketing. This project is intended to be informative for someone who is just getting into clustering. Major steps we will take in the project are :
 
 1. Feature engineering and data cleaning
