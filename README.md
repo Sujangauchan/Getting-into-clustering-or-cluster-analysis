@@ -1,4 +1,4 @@
-# Getting into clustering or cluster-analysis
+# Getting into clustering or cluster analysis
 
 ## What is clustering or cluster analysis
 
